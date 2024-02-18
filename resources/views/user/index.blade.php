@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="{{route('user.create')}}">Create User</a>
+    <a href="{{route('user.create')}}">Create User Now</a>
     <table>
         <tr>
           <th>Name</th>
